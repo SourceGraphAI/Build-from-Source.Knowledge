@@ -2,7 +2,9 @@
 # os: Fedora
 ```
 kwd = ("", "build", "install")
-sch( f"https://www.google.com/search?q=fedora+package+{k}from+source" )
+sch = [ "https://www.google.com/search?q=fedora+build+rpm+from+source" ]
+for k in kwd:
+  sch.append(f"https://www.google.com/search?q=fedora+package+{k}from+source")
 ```
 
 Guide:

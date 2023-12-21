@@ -1,6 +1,6 @@
 # Build-from-Source.Knowledge
 # os: Fedora
-```
+```python
 kwd = ("", "build", "install")
 sch = [ "https://www.google.com/search?q=fedora+build+rpm+from+source" ]
 for k in kwd:

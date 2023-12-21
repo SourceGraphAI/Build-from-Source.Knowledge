@@ -11,6 +11,13 @@ for k in kwd:
 ## Guide:
 - https://docs.fedoraproject.org/en-US/quick-docs/installing-from-source/
 
+### Rpm
+- https://asamalik.fedorapeople.org/tmp-docs-preview/quick-docs/creating-rpm-packages/
+- https://docs.fedoraproject.org/en-US/package-maintainers/Packaging_Tutorial_GNU_Hello/
+
+relation:
+- https://unix.stackexchange.com/questions/590674/what-are-some-effective-ways-to-build-run-an-srpm-without-installing-it
+
 ## repositories:
 - https://src.fedoraproject.org/
 - https://copr.fedorainfracloud.org/
